@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/logo-supplyally.svg
+
+links:
+  - title: How SupplyAlly Works
+    url: /#howsupplyallyworks
+  - title: Features of SupplyAlly
+    url: /features
+  - title: FAQ
+    url: /faq
+  - title: Media
+    url: /media
+  - title: Contact Us
+    url: /contact-us
