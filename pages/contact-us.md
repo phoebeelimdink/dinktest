@@ -5,13 +5,6 @@ permalink: /contact-us
 
 <section class="bp-section">
     <div class="bp-container">
-        <div class="row is-inverted">
-            <div class="col is-8 is-offset-2"><nav class="bp-breadcrumb" aria-label="breadcrumbs">
-    <ul>
-        <li><a href="/"><small>HOME</small></a></li><li><a href="/contact-us/"><small>CONTACT US</small></a></li></ul>
-</nav>
-</div>
-        </div>
         <div class="row">
             <div class="col is-8 is-offset-2">
                 <h1 class="display has-text-weight-semibold">Get in touch with<br><span class="has-text-secondary">HTA</span></h1>
@@ -23,39 +16,58 @@ permalink: /contact-us
 <section class="bp-section is-small padding--bottom--lg">
     <div class="bp-container">
         <div class="row">
-            <div class="col is-8 is-offset-2"><div class="row is-multiline margin--bottom"><div class="col is-6 padding--bottom--none">
-                                <p></p>
-                                <h5 class="has-text-secondary"><b>HQ Address</b></h5>
-                            </div>
-                            <div class="col is-6 padding--bottom--none"><h5 class="has-text-secondary"><b>Operating Hours</b></h5></div><div class="col is-6">
-                                <div>
-                                    <p class="margin--top--none margin--bottom--none"><b>Address</b></p>
-                                    <p class="content margin--top--none">address here</p>
-                                    <a href="" target="_blank" class="bp-sec-button has-text-secondary">
-                                        <div>
-                                            <span>FIND DIRECTIONS</span>
-                                            <i class="sgds-icon sgds-icon-arrow-right" aria-hidden="true"></i>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col is-6"><div>
-                                    <p class="margin--top--none">
-                                        <b>Mon - Fri</b>:&nbsp;8.30am - 6.00pm<br>
-                                        Closed on Weekends and Public Holidays
-                                    </p></div></div>
-                    </div><div class="row is-multiline margin--bottom--xl">
-                    <div class="col is-12 padding--bottom--none">
-                        <h5 class="has-text-secondary"><b>Contact Us</b></h5>
-                    </div><div class="col is-6">
+            <div class="col is-8 is-offset-2">
+				<div class="row is-multiline margin--bottom">
+					<div class="col is-6 padding--bottom--none">
+						<p></p>
+						<h5 class="has-text-secondary"><b>HQ Address</b></h5>
+                     </div>
+                     <div class="col is-6 padding--bottom--none">
+						<h5 class="has-text-secondary"><b>Operating Hours</b></h5>
+					 </div>
+					 <div class="col is-6">
                         <div>
-                            <p class="has-text-weight-semibold margin--top--none margin--bottom--none">General Enquiries &amp; Feedback</p><p class="margin--top--none margin--bottom--none">phone number</p><p class="margin--top--none margin--bottom--none"><a href="mailto:email@email.gov.sg ">
-                                            <u>email@email.gov.sg </u>
-                                        </a></p></div>
-                    </div><div class="col is-6">
-                        <div>
-                            <p class="has-text-weight-semibold margin--top--none margin--bottom--none">Fax</p><p class="margin--top--none margin--bottom--none">number</p></div>
-                    </div></div><div class="row is-multiline margin--bottom--lg">
+                            <p class="margin--top--none margin--bottom--none"><b>Address</b></p>
+                            <p class="content margin--top--none">address here</p>
+                            <a href="" target="_blank" class="bp-sec-button has-text-secondary">
+								<div>
+									<span>FIND DIRECTIONS</span>
+									<i class="sgds-icon sgds-icon-arrow-right" aria-hidden="true"></i>
+								</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col is-6">
+						<div>
+							<p class="margin--top--none">
+								<b>Mon - Fri</b>:&nbsp;8.30am - 6.00pm<br>
+								Closed on Weekends and Public Holidays
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row is-multiline margin--bottom--xl">
+					<div class="col is-12 padding--bottom--none">
+						<h5 class="has-text-secondary"><b>Contact Us</b></h5>
+					</div>
+					<div class="col is-6">
+						<div>
+							<p class="has-text-weight-semibold margin--top--none margin--bottom--none">General Enquiries &amp; Feedback</p>
+							<p class="margin--top--none margin--bottom--none">phone number</p>
+							<p class="margin--top--none margin--bottom--none">
+								<a href="mailto:email@email.gov.sg ">
+									<u>email@email.gov.sg </u>
+								</a>
+							</p>
+						</div>
+					</div>
+					<div class="col is-6">
+						<div>
+							<p class="has-text-weight-semibold margin--top--none margin--bottom--none">Fax</p><p class="margin--top--none margin--bottom--none">number</p>
+						</div>
+					</div>
+				</div>
+				<div class="row is-multiline margin--bottom--lg">
                     <div class="col is-12 padding--bottom--none">
                         <h5 class="has-text-secondary has-text-weight-semibold">Send us your feedback</h5>
                     </div>
@@ -65,10 +77,11 @@ permalink: /contact-us
                             please fill in the <a href="https://www.form.gov.sg/#!/forms/stb/5b963c488b1385000fd04b78" target="_blank"><u>online form</u></a>.
                         </p>
                     </div>
-                </div></div>
+                </div>
+			</div>
         </div>
     </div>
-</section></div>
+</section>
 
 <section class="bp-section is-small">
   <div class="bp-container padding--top padding--bottom--xl">
