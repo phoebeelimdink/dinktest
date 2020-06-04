@@ -2,13 +2,6 @@
 title: Contact Us
 permalink: /contact-us
 ---
-<div id="main-content" onclick=""><style>
-  .bg-contact{
-    background: url('') no-repeat left 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-  }
-</style>
 
 <section class="bp-section">
     <div class="bp-container">
