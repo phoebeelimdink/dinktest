@@ -6,7 +6,7 @@ permalink: /contact-us
 <section class="bp-section">
     <div class="bp-container">
         <div class="row">
-            <div class="col is-8 is-offset-2">
+            <div class="col is-8">
                 <h1 class="display has-text-weight-semibold">Get in touch with<br><span class="has-text-secondary">HTA</span></h1>
             </div>
         </div>
@@ -16,7 +16,7 @@ permalink: /contact-us
 <section class="bp-section is-small padding--bottom--lg">
     <div class="bp-container">
         <div class="row">
-            <div class="col is-8 is-offset-2">
+            <div class="col is-8">
 				<div class="row is-multiline margin--bottom">
 					<div class="col is-6 padding--bottom--none">
 						<p></p>
