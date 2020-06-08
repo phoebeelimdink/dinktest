@@ -1,6 +1,6 @@
 ---
-layout: Contact Us
-title: contact_
+layout: contact_us
+title: Moments of Life team (in Collaboration with PSD)
 permalink: /contact-us/
 ---
   
@@ -16,6 +16,7 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: Closed on Weekends and Public Holidays
+
 # Contact Us
 # For line: If you have an email, put "(email)" after the actual email
 column:
