@@ -46,15 +46,4 @@ links:
         url: /
       - title: Feedback
         url: https://www.site.com/url/to/page/
-  - title: HTA Workplans
-    sublinks:
-      - title: Zone 1a
-        url: /HTA_Workplans/Zone 1a/
-      - title: Zone 1b
-        url: /HTA_Workplans/Zone 1b/
-      - title: Zone 1c
-        url: /HTA_Workplans/Zone 1c/
-      - title: Zone 1d
-        url: /HTA_Workplans/Zone 1d/
-      - title: Zone 1e
-        url: /HTA_Workplans/Zone 1e/
+
