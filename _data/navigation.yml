@@ -3,55 +3,22 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
-logo: /images/HTA logo.png
+logo: /images/logo.svg
 
 links:
-  - title: Home
-  url: /
-
-- title: HTA Workplans
-  sublinks:
-  - title: Zone 1a
-    url: /
-  - title: Zone 1b
-    url: /
-  - title: Zone 1c
-    url: /
-  - title: Zone 1d
-    url: /
-  - title: Zone 1e
-    url: /
-
-- title: Home Team Department Training & Learning Initiatives
-  url: /
-  sublinks:
-  - title: TCD/MHA
-    url: /
-  - title: SPF
-    url: /
-  - title: SCDF
-    url: /
-  - title: ICA
-    url: /
-  - title: SPS
-    url: /
-  - title: CNB
-    url: /
-  - title: HTX
-    url: /
-  - title: HTBSC
-    url: /
-  - title: Concluding page
-    url: /
-
-- title: Contact Us
-  url: /
-  sublinks:
-  - title: Contact HTA
-    url: /
-  - title: Links to participating departments' homepage
-    url: /
-  - title: Feedback
-    url: https://www.site.com/url/to/page/
+  - title: Sample Collection
+    collection: sample-collection
+  - title: Resource Room
+    resource_room: true
+  - title: Single Page
+    url: /some-page/
+  - title: Custom Sublinks
+    url: /some-page-a/
+    sublinks:
+      - title: Subitem 1
+        url: /some-page-a/
+      - title: Subitem 2
+        url: /some-page-b/
+      - title: External Subitem 3
+        url: https://www.site.com/url/to/page/
 
