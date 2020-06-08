@@ -4,16 +4,55 @@
 #                                #
 ##################################
 
-logo: /images/logo-supplyally.svg
+logo: /images/HTA logo.png
 
 links:
-  - title: How SupplyAlly Works
-    url: /#howsupplyallyworks
-  - title: Features of SupplyAlly
-    url: /features
-  - title: FAQ
-    url: /faq
-  - title: Media
-    url: /media
-  - title: Contact Us
-    url: /contact-us
+  - title: Home
+  url: /
+
+- title: HTA Workplans
+  sub-links:
+  - title: Zone 1a
+    url: /
+  - title: Zone 1b
+    url: /
+  - title: Zone 1c
+    url: /
+  - title: Zone 1d
+    url: /
+  - title: Zone 1e
+    url: /
+
+- title: Home Team Department Training & Learning Initiatives
+  url: /
+  sub-links:
+  - title: TCD/MHA
+    url: /
+  - title: SPF
+    url: /
+  - title: SCDF
+    url: /
+  - title: ICA
+    url: /
+  - title: SPS
+    url: /
+  - title: CNB
+    url: /
+  - title: HTX
+    url: /
+  - title: HTBSC
+    url: /
+  - title: Concluding page
+    url: /
+
+- title: Contact Us
+  url: /
+  sub-links:
+  - title: Contact HTA
+    url: /
+  - title: Links to participating departments' homepage
+    url: /
+    external: true
+  - title: Feedback
+    url: /
+    external: true
