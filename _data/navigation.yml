@@ -11,7 +11,7 @@ links:
   url: /
 
 - title: HTA Workplans
-  sub-links:
+  sublinks:
   - title: Zone 1a
     url: /
   - title: Zone 1b
@@ -25,7 +25,7 @@ links:
 
 - title: Home Team Department Training & Learning Initiatives
   url: /
-  sub-links:
+  sublinks:
   - title: TCD/MHA
     url: /
   - title: SPF
@@ -47,12 +47,11 @@ links:
 
 - title: Contact Us
   url: /
-  sub-links:
+  sublinks:
   - title: Contact HTA
     url: /
   - title: Links to participating departments' homepage
     url: /
-    external: true
   - title: Feedback
-    url: /
-    external: true
+    url: https://www.site.com/url/to/page/
+
