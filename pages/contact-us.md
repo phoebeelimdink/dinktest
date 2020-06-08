@@ -16,7 +16,6 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: Closed on Weekends and Public Holidays
-
 # Contact Us
 # For line: If you have an email, put "(email)" after the actual email
 column:
@@ -38,7 +37,6 @@ column:
   - title: Fax
     content:
     - line: +65 6211 2222
-
 <section class="bp-section is-small">
   <div class="bp-container padding--top padding--bottom--xl">
     <div class="row is-multiline">
