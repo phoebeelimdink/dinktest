@@ -1,7 +1,17 @@
 ---
 title: Contact Us
-permalink: /contact-us/
+permalink: /contact-us
 ---
+
+<section class="bp-section">
+    <div class="bp-container">
+        <div class="row">
+            <div class="col is-8">
+                <h1 class="display has-text-weight-semibold">Get in touch with<br><span class="has-text-secondary">HTA</span></h1>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="bp-section is-small padding--bottom--lg">
     <div class="bp-container">
@@ -105,3 +115,4 @@ permalink: /contact-us/
     </div>
   </div>
 </section>
+
