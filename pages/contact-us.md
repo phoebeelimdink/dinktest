@@ -1,87 +1,43 @@
 ---
-title: Contact Us
-permalink: /contact-us
+layout: Contact Us
+title: contact_
+permalink: /contact-us/
 ---
+  
+locations:
+  # HQ Address [REQUIRED]
+  - title: 10 Pasir Panjang Road
+    address: "#10-01 Mapletree Business City<br>Singapore 117438"
+    find-directions: find-directions: https://www.google.com.sg/maps/
+  # Operating Hours [OPTIONAL]
+    operating-hours:
+      - days: Mon - Thu
+        time: 8.30am - 6.00pm
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: Closed on Weekends and Public Holidays
 
-<section class="bp-section">
-    <div class="bp-container">
-        <div class="row">
-            <div class="col is-8">
-                <h1 class="display has-text-weight-semibold">Get in touch with<br><span class="has-text-secondary">HTA</span></h1>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="bp-section is-small padding--bottom--lg">
-    <div class="bp-container">
-        <div class="row">
-            <div class="col is-8">
-				<div class="row is-multiline margin--bottom">
-					<div class="col is-6 padding--bottom--none">
-						<p></p>
-						<h5 class="has-text-secondary"><b>HQ Address</b></h5>
-                     </div>
-                     <div class="col is-6 padding--bottom--none">
-						<h5 class="has-text-secondary"><b>Operating Hours</b></h5>
-					 </div>
-					 <div class="col is-6">
-                        <div>
-                            <p class="margin--top--none margin--bottom--none"><b>Address</b></p>
-                            <p class="content margin--top--none">address here</p>
-                            <a href="" target="_blank" class="bp-sec-button has-text-secondary">
-								<div>
-									<span>FIND DIRECTIONS</span>
-									<i class="sgds-icon sgds-icon-arrow-right" aria-hidden="true"></i>
-								</div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col is-6">
-						<div>
-							<p class="margin--top--none">
-								<b>Mon - Fri</b>:&nbsp;8.30am - 6.00pm<br>
-								Closed on Weekends and Public Holidays
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="row is-multiline margin--bottom--xl">
-					<div class="col is-12 padding--bottom--none">
-						<h5 class="has-text-secondary"><b>Contact Us</b></h5>
-					</div>
-					<div class="col is-6">
-						<div>
-							<p class="has-text-weight-semibold margin--top--none margin--bottom--none">General Enquiries &amp; Feedback</p>
-							<p class="margin--top--none margin--bottom--none">phone number</p>
-							<p class="margin--top--none margin--bottom--none">
-								<a href="mailto:email@email.gov.sg ">
-									<u>email@email.gov.sg </u>
-								</a>
-							</p>
-						</div>
-					</div>
-					<div class="col is-6">
-						<div>
-							<p class="has-text-weight-semibold margin--top--none margin--bottom--none">Fax</p><p class="margin--top--none margin--bottom--none">number</p>
-						</div>
-					</div>
-				</div>
-				<div class="row is-multiline margin--bottom--lg">
-                    <div class="col is-12 padding--bottom--none">
-                        <h5 class="has-text-secondary has-text-weight-semibold">Send us your feedback</h5>
-                    </div>
-                    <div class="col is-8">
-                        <p>
-                            If you have a query, feedback or wish to report a problem related to this website,
-                            please fill in the <a href="https://www.form.gov.sg/#!/forms/stb/5b963c488b1385000fd04b78" target="_blank"><u>online form</u></a>.
-                        </p>
-                    </div>
-                </div>
-			</div>
-        </div>
-    </div>
-</section>
+# Contact Us
+# For line: If you have an email, put "(email)" after the actual email
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: +65 6211 2100
+    - line: info@tech.gov.sg (email)
+  - title: Mainline
+    content:
+    - line: +65 6211 0888
+  - title: Quality Service Manager
+    content:
+    - line: +65 1800 211 0777
+    - line: qsm@tech.gov.sg (email)
+  - title: Whistleblowing Line
+    content:
+    - line: 1800-WHISTLE (1800 944 7853)
+    - line: whistleblow@tech.gov.sg (email)
+  - title: Fax
+    content:
+    - line: +65 6211 2222
 
 <section class="bp-section is-small">
   <div class="bp-container padding--top padding--bottom--xl">
@@ -115,4 +71,3 @@ permalink: /contact-us
     </div>
   </div>
 </section>
-
