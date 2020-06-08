@@ -23,6 +23,7 @@ permalink: /contact-us
 						<h5 class="has-text-secondary"><b>HQ Address</b></h5>
                      </div>
                      <div class="col is-6 padding--bottom--none">
+						<p></p>
 						<h5 class="has-text-secondary"><b>Operating Hours</b></h5>
 					 </div>
 					 <div class="col is-6">
