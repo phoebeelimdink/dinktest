@@ -18,20 +18,7 @@ links:
         url: /
       - title: Zone 1e
         url: /
-  - title: HTA Workplans
-    sublinks:
-      - title: Zone 1a
-        url: /
-      - title: Zone 1b
-        url: /
-      - title: Zone 1c
-        url: /
-      - title: Zone 1d
-        url: /
-      - title: Zone 1e
-        url: /  
   - title: Home Team Department Training & Learning Initiatives
-    url: /
     sublinks:
       - title: TCD/MHA
         url: /
@@ -53,7 +40,6 @@ links:
         url: /
         
   - title: Contact Us
-    url: /
     sublinks:
       - title: Contact HTA
         url: /
