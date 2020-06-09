@@ -26,7 +26,6 @@ permalink: /HTA_Workplans
 </style>
 <div class="header">
 	<h1>FY2020</h1>
-    <br><br>
     <h1>HTA Workplans</h1>
 </div>
 <div>
