@@ -15,12 +15,13 @@ permalink: /HTA_Workplans
     }
   .button{
     text-align:center;
-    color:#0a215d;
-    text-decoration: none;
+    color:#0a215d!important;
+    text-decoration: none!important;
     padding:10px;
     border:solid 1px #0a215d;
     border-radius:30px;
     background:transparent;
+    width:40%;
   }
 </style>
 <div class="header">
@@ -46,5 +47,7 @@ permalink: /HTA_Workplans
   </a>
 </div>
 <br><br>
-<a class="button" href="/Home Team Department & Learning Initiatives">Home Team Department Training & Learning Initiatives</a>
+<div style="width:100%;">
+	<a class="button" href="/Home Team Department & Learning Initiatives">Home Team Department Training & Learning Initiatives</a>
+</div>
 <br><br>
