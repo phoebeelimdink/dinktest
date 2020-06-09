@@ -7,18 +7,20 @@ logo: /images/Home2.png
 
 links:
   - title: HTA Workplans
+    url: /HTA_Workplans/
     sublinks:
-      - title: Zone 1a
-        url: /HTA_Workplans/Zone 1a/
-      - title: Zone 1b
-        url: /HTA_Workplans/Zone 1b/
-      - title: Zone 1c
-        url: /HTA_Workplans/Zone 1c/
-      - title: Zone 1d
-        url: /HTA_Workplans/Zone 1d/
-      - title: Zone 1e
-        url: /HTA_Workplans/Zone 1e/
+      - title: HTA Transformation Framework
+        url: /HTA_Workplans/HTA Transformation Framework/
+      - title: GEL@HTA
+        url: /HTA_Workplans/GEL@HTA/
+      - title: TED@HTA
+        url: /HTA_Workplans/TED@HTA/
+      - title: HEART@HTA
+        url: /HTA_Workplans/HEART@HTA/
+      - title: PLUS@HTA
+        url: /HTA_Workplans/PLUS@HTA/
   - title: Home Team Department Training & Learning Initiatives
+    url: /Home Team Department & Learning Initiatives/
     sublinks:
       - title: TCD/MHA
         url: /Home Team Department & Learning Initiatives/TCDMHA/
@@ -36,8 +38,6 @@ links:
         url: /Home Team Department & Learning Initiatives/HTX/
       - title: HTBSC
         url: /Home Team Department & Learning Initiatives/HTBSC/
-      - title: Concluding page
-        url: /Home Team Department & Learning Initiatives/concluding page/
   - title: Contact Us
     sublinks:
       - title: Contact HTA
