@@ -18,28 +18,11 @@ permalink: /Home Team Department & Learning Initiatives
 	<h1>Home Team Department Training & Learning Initiatives</h1>
 </div>
 <div>
-  <div class="logos">
-      <img src="/Logos/MHA/MHA_LogoRefresh_FINAL(JPEG).jpg">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
-  <div class="logos">
-      <img src="">
-  </div>
+  <a href="/Home Team Department & Learning Initiatives/TCDMHA/" class="logos">
+      <img src="/images/Logos/MHA/MHA_LogoRefresh_FINAL(JPEG).jpg">
+  </a>
+<a href="/Home Team Department & Learning Initiatives/SPF/" class="logos">
+      <img src="/images/Logos/SPF/SPF Crest_3D_CMYK.jpg">
+  </a>
+  
 </div>
