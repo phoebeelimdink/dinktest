@@ -9,6 +9,7 @@ permalink: /Home Team Department & Learning Initiatives
     .logos{
     	width:33.33%;
         float: left;
+	padding: 5%;
     }
     .logos img{
     	width:100%;
