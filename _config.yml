@@ -4,7 +4,7 @@ favicon: /images/Branding Logo.psd
 
 # Site colors
 colors:
-  primary-color: '#1A8082'
+  primary-color: '#1D4886'
   secondary-color: '#1A8082'
   media-colors:
     - title: media-color-one
