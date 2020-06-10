@@ -30,7 +30,7 @@ permalink: /transition
 <div class="banner sections">
   <img src="images/placeholder.png">
 </div>
-
+<br>
 <div class="sections">
   <div class="header">
     <h3>Home Team Department Training & Learning Initiatives</h3>
@@ -53,7 +53,7 @@ permalink: /transition
     </a>
   </div>
 </div>
-<br><br>
+<br>
 <div class="bp-section bg-hero-bottom sections">
   <div class="header">
     <h4>Growing Strength to Strength with the Home Team Training & Learning Community</h4>
@@ -66,7 +66,7 @@ permalink: /transition
   <p>Through these initiatives, we hope that you would be able to have a better understanding of how HTA works closely with the 
   HT Training Community to Learn, Serve and Excel as One HT.</p>
 </div>
-
+<br>
 <div class="sections">
   <div class="header">
     <h3>Home Team Department <br> Training and Learning Initiatives</h3>
@@ -98,3 +98,4 @@ permalink: /transition
     </a>
   </div>
 </div>
+<br>
