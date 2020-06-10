@@ -23,6 +23,7 @@ permalink: /transition
  }
   .bg-hero-bottom {
     background: {{site.colors.secondary-color}}
+    color:#fff;
   }
 </style>
 
