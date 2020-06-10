@@ -8,11 +8,8 @@ permalink: /Home Team Department & Learning Initiatives/Singapore Prison Service
   }
 </style>
 <div class="poster">
-  <img src="/images/SPF/72 HTA Workplan Seminar_SPF-01.jpg">
-  <img src="/images/SPF/72 HTA Workplan Seminar_SPF-02.jpg">
-  <img src="/images/SPF/72 HTA Workplan Seminar_SPF-03.jpg">
-  <img src="/images/SPF/72 HTA Workplan Seminar_SPF-04.jpg">
-  <img src="/images/SPF/72 HTA Workplan Seminar_SPF-05.jpg">
-  <img src="/images/SPF/72 HTA Workplan Seminar_SPF-06.jpg">
-
+  <img src="/images/SPS/72 HTA Workplan Seminar_SPS-01.jpg">
+  <img src="/images/SPS/72 HTA Workplan Seminar_SPS-02.jpg">
+  <img src="/images/SPS/72 HTA Workplan Seminar_SPS-03.jpg">
+  <img src="/images/SPS/72 HTA Workplan Seminar_SPS-04.jpg">
 </div>
