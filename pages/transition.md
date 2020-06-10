@@ -12,7 +12,7 @@ permalink: /transition
 .icon{
   width:33.33%;
   float: left;
-  padding: 5%;
+  padding: 1% 5%;
   height: fit-content;
 }
 .icon img{
@@ -52,7 +52,7 @@ permalink: /transition
     </a>
   </div>
 </div>
-
+<br><br>
 <div class="bp-section bg-hero-bottom sections">
   <div class="header">
     <h4>Growing Strength to Strength with the Home Team Training & Learning Community</h4>
@@ -60,10 +60,8 @@ permalink: /transition
   <p>The Home Team (HT)’s operating environment is changing significantly with rapid global developments, advances in technology and 
   demographic changes in our society. We are changing the way we operate to tackle the challenges we face. </p>
   <p>HT officers must also be equipped with new and relevant skills and competencies for continued mission success. </p>
-  <br>
   <p>In the following segments, find out more about the training and learning initiatives that the Training and Competency 
   Development Division of the Ministry of Home Affairs, and HT Departments have planned and implemented for 2020. </p>
-  <br>
   <p>Through these initiatives, we hope that you would be able to have a better understanding of how HTA works closely with the 
   HT Training Community to Learn, Serve and Excel as One HT.</p>
 </div>
