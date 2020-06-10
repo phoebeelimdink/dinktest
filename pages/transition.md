@@ -22,7 +22,7 @@ permalink: /transition
    text-align:center;
  }
   .bg-hero-bottom {
-    background: {{site.colors.secondary-color}}
+    background: {{site.colors.secondary-color}};
     color:#fff;
   }
 </style>
