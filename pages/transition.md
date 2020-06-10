@@ -21,6 +21,9 @@ permalink: /transition
 .header{
    text-align:center;
  }
+  .bg-hero-bottom {
+    background: {{site.colors.secondary-color}}
+  }
 </style>
 
 <div class="banner sections">
