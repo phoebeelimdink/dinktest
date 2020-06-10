@@ -56,7 +56,7 @@ permalink: /transition
 <br>
 <div class="bp-section bg-hero-bottom sections">
   <div class="header">
-    <h4>Growing Strength to Strength with the Home Team Training & Learning Community</h4>
+    <h4 style="color:#fff;">Growing Strength to Strength with the Home Team Training & Learning Community</h4>
   </div>
   <p>The Home Team (HT)’s operating environment is changing significantly with rapid global developments, advances in technology and 
   demographic changes in our society. We are changing the way we operate to tackle the challenges we face. </p>
