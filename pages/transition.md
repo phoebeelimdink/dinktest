@@ -29,7 +29,7 @@ permalink: /transition
 
 <div class="sections">
   <div class="header">
-    <h1>Home Team Department Training & Learning Initiatives</h1>
+    <h3>Home Team Department Training & Learning Initiatives</h3>
   </div>
   <div>
     <a href="/HTA_Workplans/HTA Transformation Framework/" class="icon">
@@ -52,7 +52,7 @@ permalink: /transition
 
 <div class="bp-section bg-hero-bottom sections">
   <div class="header">
-    <h3>Growing Strength to Strength with the Home Team Training & Learning Community</h3>
+    <h4>Growing Strength to Strength with the Home Team Training & Learning Community</h4>
   </div>
   <p>The Home Team (HT)’s operating environment is changing significantly with rapid global developments, advances in technology and 
   demographic changes in our society. We are changing the way we operate to tackle the challenges we face. </p>
@@ -67,7 +67,7 @@ permalink: /transition
 
 <div class="sections">
   <div class="header">
-    <h1>Home Team Department <br> Training and Learning Initiatives</h1>
+    <h3>Home Team Department <br> Training and Learning Initiatives</h3>
   </div>
   <div>
     <a href="/Home Team Department & Learning Initiatives/Training & Competency Development Division/" class="icon">
