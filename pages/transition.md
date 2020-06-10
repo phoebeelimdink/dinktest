@@ -3,6 +3,9 @@ title: Transition
 permalink: /transition
 ---
 <style>
+.sections{
+	position:relative;	
+}
 .banner img{
   width:100%;
 }
@@ -19,11 +22,11 @@ permalink: /transition
  }
 </style>
 
-<div class="banner">
+<div class="banner sections">
   <img src="images/placeholder.png">
 </div>
 
-<div>
+<div class="sections">
   <div class="header">
     <h1>Home Team Department Training & Learning Initiatives</h1>
   </div>
@@ -46,7 +49,7 @@ permalink: /transition
   </div>
 </div>
 
-<div class="bp-section bg-hero-bottom">
+<div class="bp-section bg-hero-bottom sections">
   <div class="header">
     <h3>Growing Strength to Strength with the Home Team Training & Learning Community</h3>
   </div>
@@ -61,7 +64,7 @@ permalink: /transition
   HT Training Community to Learn, Serve and Excel as One HT.</p>
 </div>
 
-<div>
+<div class="sections">
   <div class="header">
     <h1>Home Team Department <br> Training and Learning Initiatives</h1>
   </div>
