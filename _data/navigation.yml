@@ -6,38 +6,40 @@
 logo: /images/Home2.png
 
 links:
+  - title: Home
+    url: /
   - title: HTA Workplans
     url: /HTA_Workplans/
     sublinks:
       - title: HTA Transformation Framework
         url: /HTA_Workplans/HTA Transformation Framework/
-      - title: GEL@HTA
-        url: /HTA_Workplans/GEL@HTA/
-      - title: TED@HTA
-        url: /HTA_Workplans/TED@HTA/
-      - title: HEART@HTA
-        url: /HTA_Workplans/HEART@HTA/
-      - title: PLUS@HTA
-        url: /HTA_Workplans/PLUS@HTA/
+      - title: Good & Effective Learning at HTA
+        url: /HTA_Workplans/Good & Effective Learning at HTA/
+      - title: Technology-Enabled & Digitalised HTA
+        url: /HTA_Workplans/Technology-Enabled & Digitalised HTA/
+      - title: HEART of HTA
+        url: /HTA_Workplans/HEART of HTA/
+      - title: Partners Like U Strengthen Us
+        url: /HTA_Workplans/Partners Like U Strengthen Us/
   - title: Home Team Department Training & Learning Initiatives
     url: /Home Team Department & Learning Initiatives/
     sublinks:
-      - title: TCD/MHA
-        url: /Home Team Department & Learning Initiatives/TCDMHA/
-      - title: SPF
-        url: 	/Home Team Department & Learning Initiatives/SPF/
-      - title: SCDF
-        url: /Home Team Department & Learning Initiatives/SCDF/
-      - title: ICA
-        url: /Home Team Department & Learning Initiatives/ICA/
-      - title: SPS
-        url: 	/Home Team Department & Learning Initiatives/SPS/
-      - title: CNB
-        url: /Home Team Department & Learning Initiatives/CNB/
-      - title: HTX
-        url: /Home Team Department & Learning Initiatives/HTX/
-      - title: HTBSC
-        url: /Home Team Department & Learning Initiatives/HTBSC/
+      - title: Training & Competency Development Division
+        url: /Home Team Department & Learning Initiatives/Training & Competency Development Division/
+      - title: Singapore Police Force
+        url: 	/Home Team Department & Learning Initiatives/Singapore Police Force/
+      - title: Singapore Civil Defence Force
+        url: /Home Team Department & Learning Initiatives/Singapore Civil Defence Force/
+      - title: Immigration & Checkpoints Authority
+        url: /Home Team Department & Learning Initiatives/Immigration & Checkpoints Authority/
+      - title: Singapore Prison Service
+        url: 	/Home Team Department & Learning Initiatives/Singapore Prison Service/
+      - title: Central Narcotics Bureau
+        url: /Home Team Department & Learning Initiatives/Central Narcotics Bureau/
+      - title: Home Team Science and Technology Agency
+        url: /Home Team Department & Learning Initiatives/Home Team Science and Technology Agency/
+      - title: Home Team Behavioural Sciences Centre
+        url: /Home Team Department & Learning Initiatives/Home Team Behavioural Sciences Centre/
   - title: Contact Us
     sublinks:
       - title: Contact HTA
