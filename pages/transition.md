@@ -4,7 +4,7 @@ permalink: /transition
 ---
 <style>
 .sections{
-	position:relative;	
+  overflow:hidden;
 }
 .banner img{
   width:100%;
@@ -12,7 +12,8 @@ permalink: /transition
 .icon{
   width:33.33%;
   float: left;
-	padding: 5%;
+  padding: 5%;
+  height: fit-content;
 }
 .icon img{
    width:100%;
