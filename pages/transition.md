@@ -18,7 +18,7 @@ permalink: /transition
 .icon img{
    width:100%;
 }
-.header{
+.headers{
    text-align:center;
  }
   .bg-hero-bottom {
@@ -32,7 +32,7 @@ permalink: /transition
 </div>
 <br>
 <div class="sections">
-  <div class="header">
+  <div class="headers">
     <h3>Home Team Department Training & Learning Initiatives</h3>
   </div>
   <div>
@@ -55,7 +55,7 @@ permalink: /transition
 </div>
 <br>
 <div class="bp-section bg-hero-bottom sections">
-  <div class="header">
+  <div class="headers">
     <h4 style="color:#fff;">Growing Strength to Strength with the Home Team Training & Learning Community</h4>
   </div>
   <p>The Home Team (HT)’s operating environment is changing significantly with rapid global developments, advances in technology and 
@@ -68,7 +68,7 @@ permalink: /transition
 </div>
 <br>
 <div class="sections">
-  <div class="header">
+  <div class="headers">
     <h3>Home Team Department <br> Training and Learning Initiatives</h3>
   </div>
   <div>
