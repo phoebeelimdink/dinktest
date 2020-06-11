@@ -28,7 +28,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 </style>
 
 <div class="banner sections">
-  <img src="images/placeholder.png">
+  <img src="/images/Website Banner_11062020.jpeg">
 </div>
 <br>
 <div class="sections">
@@ -73,28 +73,28 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
   </div>
   <div>
     <a href="/Home Team Department & Learning Initiatives/Training & Competency Development Division/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/MHQ.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Singapore Police Force/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/SPF.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Singapore Civil Defence Force/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/SCDF.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Immigration & Checkpoints Authority/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/ICA.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Singapore Prison Service/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/SPS.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Central Narcotics Bureau/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/CNB.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Home Team Science and Technology Agency/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/HTX.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Home Team Behavioural Sciences Centre/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/logo/placeholder.png">
     </a>
   </div>
 </div>
