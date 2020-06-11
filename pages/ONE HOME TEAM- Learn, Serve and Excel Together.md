@@ -1,6 +1,6 @@
 ---
-title: Transition
-permalink: /transition
+title: ONE HOME TEAM- Learn, Serve and Excel Together
+permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 ---
 <style>
 .sections{
