@@ -94,7 +94,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
         <img src="images/logo/HTX.png">
     </a>
     <a href="/Home Team Department & Learning Initiatives/Home Team Behavioural Sciences Centre/" class="icon">
-        <img src="images/logo/placeholder.png">
+        <img src="images/placeholder.png">
     </a>
   </div>
 </div>
