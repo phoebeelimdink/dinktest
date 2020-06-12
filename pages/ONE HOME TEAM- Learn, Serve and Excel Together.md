@@ -33,23 +33,23 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 <br>
 <div class="sections">
   <div class="headers">
-    <h3>Home Team Department Training & Learning Initiatives</h3>
+    <h3>Home Team Academy <br> Workplans</h3>
   </div>
   <div>
     <a href="/HTA_Workplans/HTA Transformation Framework/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/workplan/opt c - framework.png">
     </a>
     <a href="/HTA_Workplans/Good & Effective Learning at HTA/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/workplan/opt c - gel.png">
     </a>
     <a href="/HTA_Workplans/Technology-Enabled & Digitalised HTA/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/workplan/opt c - ted.png">
     </a>
     <a href="/HTA_Workplans/HEART of HTA/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/workplan/opt c - heart.png">
     </a>
     <a href="/HTA_Workplans/Partners Like U Strengthen Us/" class="icon">
-        <img src="images/placeholder.png">
+        <img src="images/workplan/opt c - plus.png">
     </a>
   </div>
 </div>
