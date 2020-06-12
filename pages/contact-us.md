@@ -93,11 +93,22 @@ permalink: /contact-us
     <div class="row is-multiline">
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
         <a href="/linkhere" target="_blank" class="is-media-card">
-          <div class="media-card-plain bg-media-color-1 padding--lg">
+          <div class="bg-media-color-1 padding--lg">
               <h5 class="has-text-white padding--bottom--lg"><b>No short supply of good ideas</b></h5>
           </div>
         </a>
       </div>
+	    
+	    
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="/linkhere" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>No short supply of good ideas</b></h5>
+          </div>
+        </a>
+      </div>
+
+
 
     </div>
   </div>
