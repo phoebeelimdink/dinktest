@@ -52,7 +52,7 @@ permalink: /HTA_Workplans
   </div>
 </div>
 <br><br>
-<div style="width:100%;">
+<div style="width:100%; text-align:center;">
 	<a class="button" href="/Home Team Department & Learning Initiatives">Home Team Department Training & Learning Initiatives</a>
 </div>
 <br><br>
