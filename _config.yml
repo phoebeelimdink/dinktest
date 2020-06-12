@@ -8,7 +8,7 @@ colors:
   secondary-color: '#7494c0'
   media-colors:
     - title: media-color-one
-      color: '#dc3742'
+      color: '#6b6b6b'
     - title: media-color-two
       color: '#3F3D56'
     - title: media-color-three
