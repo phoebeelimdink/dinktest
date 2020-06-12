@@ -92,22 +92,63 @@ permalink: /contact-us
   <div class="bp-container padding--top padding--bottom--xl contactresource">
     <div class="row is-multiline">
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
-        <a href="/linkhere" target="_blank" class="is-media-card">
+        <a href="https://www.mha.gov.sg" target="_blank" class="is-media-card">
           <div class="bg-media-color-1 padding--lg">
-              <h5 class="has-text-white padding--bottom--lg"><b>No short supply of good ideas</b></h5>
+              <h5 class="has-text-white padding--bottom--lg"><b>TCD/MHQ</b></h5>
           </div>
         </a>
       </div>
 	    
 	    
       <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
-        <a href="/linkhere" target="_blank" class="is-media-card">
+        <a href="https://www.police.gov.sg" target="_blank" class="is-media-card">
           <div class="bg-media-color-1 padding--lg">
-              <h5 class="has-text-white padding--bottom--lg"><b>No short supply of good ideas</b></h5>
+              <h5 class="has-text-white padding--bottom--lg"><b>SPF</b></h5>
           </div>
         </a>
       </div>
-
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.scdf.gov.sg" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>SCDF</b></h5>
+          </div>
+        </a>
+      </div>
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.ica.gov.sg" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>ICA</b></h5>
+          </div>
+        </a>
+      </div>
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.sps.gov.sg" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>SPS</b></h5>
+          </div>
+        </a>
+      </div>
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.cnb.gov.sg" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>CNB</b></h5>
+          </div>
+        </a>
+      </div>
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.htx.gov.sg" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>HTX</b></h5>
+          </div>
+        </a>
+      </div>
+      <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
+        <a href="https://www.mha.gov.sg/hta/ht-departments-schools-specialist-centres" target="_blank" class="is-media-card">
+          <div class="bg-media-color-1 padding--lg">
+              <h5 class="has-text-white padding--bottom--lg"><b>HTBSC</b></h5>
+          </div>
+        </a>
+      </div>
 
 
     </div>
