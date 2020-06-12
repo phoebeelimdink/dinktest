@@ -6,6 +6,9 @@ permalink: /Home Team Department & Learning Initiatives/Singapore Police Force/
 .poster img{
     width:100%;
   }
+ .bp-section {
+    background-color: #d3d3d3;
+}
 </style>
 <div class="poster">
   <img src="/images/SPF/72 HTA Workplan Seminar_SPF-01.jpg">
