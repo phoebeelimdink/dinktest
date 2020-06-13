@@ -12,7 +12,7 @@ permalink: /contact-us
     <div class="bp-container">
         <div class="row">
             <div class="col is-8">
-				<div class="row is-multiline margin--bottom--xl">
+				<div class="row is-multiline">
 					<div class="col is-12 padding--bottom--none">
 						<h5 class="has-text-secondary"><b>Get in Touch with HTA</b></h5>
 					</div>
