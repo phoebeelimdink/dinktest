@@ -1,5 +1,5 @@
 ---
-title: Chief Executive's Address
+title: Chief Executive's Foreword
 permalink: /CE_Address
 ---
 Dear Home Team colleagues and valued partners,
