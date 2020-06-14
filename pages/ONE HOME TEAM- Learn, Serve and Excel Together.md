@@ -13,7 +13,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
   width:33.33%;
   float: left;
   padding: 1% 5%;
-  height: fit-content;
+  height: auto;
 }
 .icon img{
    width:100%;
