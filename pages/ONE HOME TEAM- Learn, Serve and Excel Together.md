@@ -28,7 +28,7 @@ permalink: /ONE HOME TEAM- Learn, Serve and Excel Together
 </style>
 
 <div class="banner sections">
-  <img src="/images/Website Banner_11062020.jpeg">
+  <img src="/images/Website Banner B_13062020.jpg">
 </div>
 <br>
 <div class="sections">
